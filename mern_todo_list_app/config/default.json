@@ -1,4 +1,4 @@
 {
   "mongoURI": "place your mongoURI here",
-  "jwtSecret": "david_jwtSecret"
+  "jwtSecret": "any jwtSecret can be entered"
 }
